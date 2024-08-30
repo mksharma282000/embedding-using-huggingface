@@ -2,3 +2,5 @@ llama-index-embeddings-huggingface
 llama-index-embeddings-instructor
 llama-index
 llama-index-llms-gemini
+chromadb
+llama-index-vector-stores-chroma
